@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="estacionamientoModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="registro">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="patente" Type="nchar" MaxLength="10" />
+    <Property Name="fecha_ingreso" Type="datetime" />
+    <Property Name="fecha_salida" Type="datetime" />
+    <Property Name="monto_estacionamiento" Type="int" />
+    <Property Name="estado" Type="char" MaxLength="1" />
+  </EntityType>
+  <EntityContainer Name="estacionamientoModelStoreContainer">
+    <EntitySet Name="registro" EntityType="Self.registro" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

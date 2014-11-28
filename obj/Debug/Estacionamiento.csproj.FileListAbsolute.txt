@@ -1,0 +1,10 @@
+c:\users\nibaldo\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.csprojResolveAssemblyReference.cache
+C:\Users\Nibaldo\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento\bin\Estacionamiento.dll.config
+C:\Users\Nibaldo\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento\bin\Estacionamiento.dll
+C:\Users\Nibaldo\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento\bin\Estacionamiento.pdb
+C:\Users\Nibaldo\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento\bin\EntityFramework.dll
+C:\Users\Nibaldo\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento\bin\EntityFramework.SqlServer.dll
+C:\Users\Nibaldo\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento\bin\EntityFramework.xml
+C:\Users\Nibaldo\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento\bin\EntityFramework.SqlServer.xml
+C:\Users\Nibaldo\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.dll
+C:\Users\Nibaldo\documents\visual studio 2013\Projects\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.pdb
